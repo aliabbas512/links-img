@@ -1,0 +1,19 @@
+.oddNum{
+    background-color: lightpink;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.three{
+    font-size: 24px;
+}
+
+#secNum{
+    color: blue;
+    font-size: 36px;
+}
+
+#forth{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
