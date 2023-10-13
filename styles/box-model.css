@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+    font-size: 30px;
+    max-width: 600px;
+    text-align: center;
+}
+.div1{
+    background-color: red;
+    border: 10px solid green;
+    padding: 32px;
+    margin: 12px;
+}
+.div2{
+    background-color: blue;
+    border: 10px solid yellow;
+    margin-bottom: 48px;
+}
+.div3{
+    background-color: aqua;
+    border: 10px solid chartreuse;
+    width: 200px;
+    padding: 32px;
+    margin: 0 0 0 400px;
+}
